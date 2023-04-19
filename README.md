@@ -10,7 +10,7 @@
 
 ```Conecte o HC-05 do jeito que o sketch logo abaixo ```
 
-<img src="./sketch.png"/>
+<img src="./SKETCH-CONFIGURAR.png"/>
 
 ### 3- Reiniciar o modo padrão 
 
