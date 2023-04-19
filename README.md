@@ -1,25 +1,25 @@
-# HC-05-TUTORIAL
+# PARA RENOMEAR MANTENHA A MONTAGEM DO INICIAL
 
-## Passos iniciais
+## Comandos de configuração
 
-### 1- Limpar o arduino
+### Ver o nome que está cadastrado
 
-```Passe um código em branco sem nada conectado no arduino pra ver como ele está```
+```AT+NAME```
 
-### 2- Encaixe os fios do HC-05
 
-```Conecte o HC-05 do jeito que o sketch logo abaixo ```
+### Ver a senha que está cadastrado
 
-<img src="./sketch.png"/>
+```AT+PSWD```
 
-### 3- Reiniciar o modo padrão 
+### Alterar o nome
 
-```O hc tem um modo padrão de configuração, para entrar nele, desconecte o cabo do arduino e aperte o botão do hc por 3 segundos e encaixe o cabo de energia de novo, se ele piscar lento está funcionando ```
+```AT+NAME= TomateBluetooth```
 
-### 4- Cheque pelo monitor serial
+### Alterar a senha
 
-```Abra o monitor serial e teste se ele está funcionando conforme a imagem a baixo```
+```AT+PSWD="1234"```
 
-<img src="./monitor.png"/>
 
-### Parabéns, funcionou
+### Checar a data da versão do hc-05
+
+```AT+VERSION```
