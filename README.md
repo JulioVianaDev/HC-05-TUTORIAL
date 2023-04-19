@@ -1,5 +1,7 @@
-# Neste projeto testamos a comunicação do aparelho mobile
+# Neste carrinho bluetooth com app mobile
 
-##  Basta subir o código e trocar o rx pelo tx conforme abaixo
+##  Vecê pode alimentar este carrinho com diferentes porém SE FOR MAIS que 7v(ou duas baterias lion) por favor colocar um regulador de tensão
 
-<img src="./sketch.png"/>
+# Montagem do carro
+
+<img src="./car.png"/>
